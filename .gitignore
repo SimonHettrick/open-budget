@@ -1,0 +1,7 @@
+__pycache__
+budget/venv/*
+budget/data/*
+budget/output_files/*
+budget/ol_poss_useful_files/*
+.DS_Store
+~$*
